@@ -26,6 +26,7 @@ I created the `twitter-ingest-flume-java` project in Eclipse and added the follo
 * Flume
 * Stanford NLP
 	
+	```
 	<dependency>
   		<groupId>org.twitter4j</groupId>
   		<artifactId>twitter4j-core</artifactId>
@@ -46,7 +47,8 @@ I created the `twitter-ingest-flume-java` project in Eclipse and added the follo
 		<artifactId>stanford-corenlp</artifactId>
 		<version>3.6.0</version>
 	</dependency>
-
+	```
+	
 ### Step 3: Code and test
 
 In addition to interfacing with Twitter, I embedded a sentiment analysis processing as the tweets are being ingested, evaluating it as "Positive", "Negative" or "Neutral". I used Stanford NLP for the task.
