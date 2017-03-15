@@ -2,5 +2,5 @@
 
 We managed to ingest 6-7 days worth of data from (Mar 5-11) on Wells Fargo hashtag.
 
-![Negative Sentiments](/images/001_negative_sentiment.png)
-Format: ![Alt Text](url)
+![Negative Sentiments](https://github.com/kamarapaulb/sentiment-analysis/blob/master/images/001_negative_sentiment.PNG)
+Format: ![Alt Text](url)nt
