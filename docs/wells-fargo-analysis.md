@@ -26,7 +26,7 @@ Based on our sample, more than half of the tweets are not positive (negative and
 
 
 
-If we zoom in on negative sentiments segment, we get the frequently the used words in the word cloud. And they are very negative.
+If we zoom in on negative sentiments segment, we get the frequently used words in the word cloud. And they are very negative.
 
 ![Negative Sentiments](https://github.com/kamarapaulb/sentiment-analysis/raw/master/images/010_negative_sentiment.PNG)
 
@@ -40,4 +40,4 @@ We sampled some of our neutral tweets. By clicking on the neutral segment, we ar
 
 We also check the samples from positive. Some are news perhaps from Wells Fargo people or retweets from official Twitter handle of Wells Fargo, which obviously should be positive.
 
-![Positive Sample](https://github.com/kamarapaulb/sentiment-analysis/raw/master/images/012	_positive_sample.PNG)
+![Positive Sample](https://github.com/kamarapaulb/sentiment-analysis/raw/master/images/012_positive_sample.PNG)
