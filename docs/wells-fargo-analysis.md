@@ -38,4 +38,4 @@ We sampled some of our neutral tweets. By clicking on the neutral segment, we ar
 
 We also check the samples from positive. Some are news perhaps from Wells Fargo people or retweets from official Twitter handle of Wells Fargo, which obviously should be positive.
 
-![Positive Sample](https://github.com/kamarapaulb/sentiment-analysis/raw/master/images/011_positive_sample.PNG)
+![Positive Sample](https://github.com/kamarapaulb/sentiment-analysis/raw/master/images/012_positive_sample.PNG)
